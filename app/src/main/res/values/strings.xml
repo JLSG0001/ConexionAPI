@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConexionAPI</string>
+    <string name="textview">TextView</string>
+    <string name="ns">NS:\u0020</string>
+    <string name="id">ID:\u0020</string>
+    <string name="rssi">RSSI:\u0020</string>
+</resources>

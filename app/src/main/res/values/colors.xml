@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#373737</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSplash">#FFFFFF</color>
+
+
+
+    <color name="dtwYellow">#FFC507</color>
+    <color name="dtwBlack">#373737</color>
+    <color name="dtwBlackLignt">#D7CCC8</color>
+    <color name="dtwYellowLignt">#FFF9C4</color>
+    <color name="contorno_campo_estandar">#c4bdbd</color>
+    <color name="gray">#747474</color>
+    <color name="black">#424242</color>
+    <color name="gray_light">#cacaca</color>
+    <color name="gray_light_2">#EEEEEE</color>
+    <color name="white">#FFFFFF</color>
+    <item name="red" type="color">#FFFF4444</item>#014B94
+
+    <color name="darkBlue">#014B94</color>
+    <color name="lightBlue">#41CEF9</color>
+    <color name="lightBlueBackground">#BBDEFB</color>
+</resources>
+
